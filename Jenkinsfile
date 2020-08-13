@@ -8,6 +8,6 @@ node {
 
     // Get some code from a GitHub repository
     git url: 'https://github.com/RendonEls/CoraLee.git'
-    bat 'git clean -fdx; sleep 4;'
+    bat 'echo testing'
 
 }
