@@ -8,6 +8,10 @@ node {
 
     // Get some code from a GitHub repository
     git url: 'https://github.com/RendonEls/CoraLee.git'
-    bat 'echo testing'
-
+    bat 'echo testing' // sorry, phone died as I plugged it in .lol lol - I'll call in a sec
+    // okt
+    // typing in "bat 'echo testing' is the same as this->"
+    // bat means 'run a command in cmd' basically. cmd <=> bat
+    // so, to print out the directories and files, what command would we run?
+    bat 'dir' //? yes, givve er a shot
 }
